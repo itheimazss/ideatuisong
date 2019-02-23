@@ -13,7 +13,6 @@ public class tuisong {
     public void test(){
         int i = 0;
         i+=10;
-//dddd
     }
 
 }
